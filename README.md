@@ -32,6 +32,7 @@ Whether you are scaling continuous 360-degree feedback, aligning company-wide Ob
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🛠️ Architecture & Open-Source Assembly Stack](#️-architecture--open-source-assembly-stack)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Community](#-support--community)
 - [⭐ Star History](#-star-history)
 - [⚖️ Disclaimer & Compliance](#️-disclaimer--compliance)
 
@@ -168,6 +169,25 @@ Contributions are warmly welcomed! Help make this directory the most accurate ta
 3. Ensure SaaS entries include **specific starting prices**, **exact trial durations**, and **verified company size metrics**.
 4. Ensure open-source projects include a working **shields.io social star badge** linking to stargazers.
 5. Submit a **Pull Request** with a concise description of your changes.
+
+---
+
+## 💖 Support & Community
+
+A heartfelt thank you to everyone exploring, contributing to, and starring **Awesome Talent Management**! Building and keeping this ecosystem directory updated with verified metrics, market intelligence, and open-source tooling requires continuous research.
+
+If this repository has provided value to you or your organization, here is how you can support its maintenance:
+
+- ⭐ **Star this repository** to help other engineers, HR leaders, and managers discover it.
+- 🍴 **Fork & Contribute** by submitting pull requests for new tools, frameworks, and pricing updates.
+- 📢 **Share this list** on LinkedIn, Twitter/X, Reddit, or internal tech/HR Slack channels.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support the ongoing maintenance and development of this repository, consider sponsoring via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007). Every bit of support is deeply appreciated!
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-%E2%9D%A4-pink?style=for-the-badge&logo=githubsponsors" alt="Sponsor on GitHub" />
+  </a>
+</p>
 
 ---
 
